@@ -1,8 +1,6 @@
-# pyladies-sp
+# Workshop: Introdução à lógica de programação com Python - PyLadies
 Aulas PyLadies SP
 
-PyLadies SP - Introdução à lógica de programação com Python
-Data: 18/01/2020
-Anotações do curso - https://daviny.vidal.nom.br
 
-https://github.com/davinyvidal/pyladies-sp/blob/master/python_1_PyladiesSP.ipynb
+Este repositório contém todo material utilizado no workshop "Python 1" realizado em 18/02/2020
+Anotações do curso: Daviny Vidal | Organização: Pyladies SP | Local: Impacta Faculdade
